@@ -11,7 +11,7 @@ import (
 
 	"github.com/labstack/gommon/log"
 
-	"github.com/hasansino/apptemplate/config"
+	"github.com/hasansino/apptemplate/internal/config"
 )
 
 type item struct {

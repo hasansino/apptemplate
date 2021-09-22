@@ -21,8 +21,8 @@ import (
 	"github.com/trafficstars/metrics"
 	"github.com/trafficstars/registry"
 
-	"github.com/hasansino/apptemplate/api"
-	"github.com/hasansino/apptemplate/config"
+	"github.com/hasansino/apptemplate/internal/api"
+	"github.com/hasansino/apptemplate/internal/config"
 )
 
 // this variables are passed as arguments upon build

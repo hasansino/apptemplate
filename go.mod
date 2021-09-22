@@ -1,6 +1,6 @@
 module github.com/hasansino/apptemplate
 
-go 1.15
+go 1.16
 
 require (
 	github.com/bshuster-repo/logrus-logstash-hook v1.0.0
